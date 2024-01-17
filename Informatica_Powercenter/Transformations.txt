@@ -1,0 +1,43 @@
+1.Active and Passive Transformations
+2. Update Strategy Transformation
+3. Expression Transformation
+4. Filter Transformation
+5. Aggregator Transformation
+6. Lookup Transformation
+7. Sequence Generator Transformation (SGT)
+8. Stored Procedure Transformation (SPT)/ External Procedure Transformation
+9. Custom Transformation
+10. Joiner Transformation
+11. Normalizer Transformation
+12. Rank Transformation
+13. Router Transformation
+14. Sorter Transformation
+15. Transaction Control Transformation (TCT)
+16. Source Qualifier Transformation (SQT)
+    16.1. XML Source Qualifier Transformation
+    16.2. Application Source Qualifier Transformation
+    16.3. MQ Source Qualifier Transformation
+    16.4. Application Multi-Group Source Qualifier Transformation
+17. Flexible Target Key Transformation
+18. HTTP Transformation
+19. Web Services Consumer Transformation
+20. SQL Transformation
+21. Union Transformation
+22. Java Transformation
+23. Salesfore Lookup Transformation
+24. Salesfore Picklist Transformation
+25. Salesfore Merge Transformation
+26. XML Parse Transformation/ XML Generator Transformation
+27. Identity Resolution Transformation
+28. Unstructured Data Transformation
+29. Data Masking Transformation
+
+
+
+
+
+
+
+
+
+
